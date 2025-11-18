@@ -1,0 +1,6 @@
+export { default as Home } from './Home'
+export { default as Leistungen } from './Leistungen'
+export { default as Web } from './Web'
+export { default as Lab } from './Lab'
+export { default as Ueber } from './Ueber'
+export { default as Kontakt } from './Kontakt'
